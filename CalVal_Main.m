@@ -1,6 +1,6 @@
 %% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Adam Gourmos
-% Harvest Cal/Val for Professor Lebern
+% Harvest Cal/Val for Professor Leben
 % Corrected Data
 clear all;
 clc;
