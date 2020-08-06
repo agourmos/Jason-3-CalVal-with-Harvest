@@ -30,4 +30,4 @@ This code set pulls Jason-3 SLA data from the RADS database by remko and calibra
   
   # minDist.m
   
-  - This function finds the distance between two points given the latitude and longitude of each points.
+- This function finds the distance between two points given the latitude and longitude of each points.
